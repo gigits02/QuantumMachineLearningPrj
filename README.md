@@ -1,5 +1,3 @@
-# QuantumMachineLearningProject
-=======
 Graph Coloring con QAOA
 =========================
 
