@@ -1,0 +1,6 @@
+pennylane
+networkx
+matplotlib
+qutip
+scipy
+tqdm
