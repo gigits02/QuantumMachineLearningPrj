@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # QuantumMachineLearningProject
 =======
 Graph Coloring con QAOA
@@ -40,4 +39,3 @@ chmod +x setup.sh
 ./setup.sh
 Per Windows:
 setup.bat
->>>>>>> d9a4c3f (Upload del progetto per esame)
